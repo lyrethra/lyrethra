@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  open to collaboration & learning together ✨
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=lyrethra&label=profile%20views&color=ff69b4&style=flat" />
 </p>
 
