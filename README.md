@@ -21,13 +21,15 @@
 
 <div align="center">
 
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python" /><br><br>
+  <!-- Baris 1: Languages & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,php" /><br>
 
-  <!-- Frameworks, Database & Tools -->
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,laravel,firebase,mysql,cordova,linux,git,github,figma,vscode,xampp" />
+  <!-- Baris 2: Frameworks Lanjutan, DB & Tools -->
+  <img src="https://skillicons.dev/icons?i=laravel,tailwind,mysql,linux,git,github,figma" />
 
 </div>
+
+
 
 
 <hr>
