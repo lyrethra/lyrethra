@@ -3,9 +3,6 @@
 </p>
 
 <h3 align="center">hi👋, I'm Lyrethra</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lyrethra&label=profile%20views&color=ff69b4&style=flat" />
-</p>
 
 <p align="center">
   🎓 cyber security student • 🌐 learning web dev • 🎮 gamer
