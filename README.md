@@ -17,7 +17,7 @@
 <h2 align="center">💗 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lyrethra&theme=rose_pine&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=lyrethra&theme=dracula&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
 </p>
 
 <hr>
