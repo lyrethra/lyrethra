@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🎓 cyber security student • 🌐 learning web dev 
+  🎓 cyber security student 🌐 learning web dev 
 </p>
 
 <p align="center">
@@ -14,10 +14,8 @@
 
 <hr>
 
-### 👤 About Me
 
-🚀 Currently learning and building small projects
-🧠 Interested in web development and cyber security
+Currently learning and building small projects...
 
 
 <hr>
