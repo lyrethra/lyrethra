@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🎓 cyber security student • 🌐 learning web dev • 🎮 gamer
+  🎓 cyber security student • 🌐 learning web dev 
 </p>
 
 <p align="center">
@@ -16,11 +16,8 @@
 
 ### 👤 About Me
 
-* 🚀 Currently learning and building small projects
-* 🧠 Interested in web development and cyber security
-* 🔐 Exploring system fundamentals and security concepts
-* 🌐 Enjoy learning by experimenting and breaking things safely
-* 🎮 Gamer who codes for fun
+🚀 Currently learning and building small projects
+🧠 Interested in web development and cyber security
 
 
 <hr>
